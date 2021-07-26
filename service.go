@@ -18,7 +18,7 @@
 //	import (
 //		"log"
 //
-//		"github.com/MeloQi/service"
+//		"github.com/Asianatix/service"
 //	)
 //
 //	var logger service.Logger
